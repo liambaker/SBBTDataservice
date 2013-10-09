@@ -1,0 +1,9 @@
+A:\SBBTDataservice\SBBTDataservice\bin\Debug\SBBTDataservice.dll.config
+A:\SBBTDataservice\SBBTDataservice\bin\Debug\SBBTDataservice.dll
+A:\SBBTDataservice\SBBTDataservice\bin\Debug\SBBTDataservice.pdb
+A:\SBBTDataservice\SBBTDataservice\bin\Debug\SBBTDataservice.xml
+A:\SBBTDataservice\SBBTDataservice\obj\Debug\SBBTDataservice.Resources.resources
+A:\SBBTDataservice\SBBTDataservice\obj\Debug\SBBTDataservice.vbproj.GenerateResource.Cache
+A:\SBBTDataservice\SBBTDataservice\obj\Debug\SBBTDataservice.dll
+A:\SBBTDataservice\SBBTDataservice\obj\Debug\SBBTDataservice.xml
+A:\SBBTDataservice\SBBTDataservice\obj\Debug\SBBTDataservice.pdb
